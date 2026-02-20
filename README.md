@@ -4,6 +4,24 @@
 
 ---
 
+## Table of Contents
+
+1. [Project Overview](#1-project-overview)
+2. [Live Application](#2-live-application)
+3. [Core Features](#3-core-features)
+4. [Technology Stack](#4-technology-stack)
+5. [Project Architecture](#5-project-architecture)
+6. [Detailed Code Implementation](#6-detailed-code-implementation)
+7. [Application Workflow](#7-application-workflow)
+8. [Design and UX Philosophy](#8-design-and-ux-philosophy)
+9. [Deployment Details](#9-deployment-details)
+10. [Scalability and Future Improvements](#10-scalability-and-future-improvements)
+11. [How to Run Locally](#11-how-to-run-locally)
+12. [Contribution Guidelines](#12-contribution-guidelines)
+13. [License and Ownership](#13-license-and-ownership)
+
+---
+
 ## 1. Project Overview
 
 Plotiva is a self-contained, browser-based data analytics platform built on Streamlit. It accepts structured tabular data from a user, processes it through a layered analysis pipeline, and returns interactive visualizations, statistical diagnostics, machine learning predictions, and exportable executive reports — all without requiring any external data service or cloud dependency.
